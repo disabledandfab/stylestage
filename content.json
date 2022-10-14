@@ -1,0 +1,9 @@
+{
+    // Required
+    "title": "Ghostly Halloween",
+    "author": "Gem Schley",
+    "stylesheet": "https://moderncss.dev/css/style.css",
+    // Optional
+    "twitter": "@disabledandfab",
+    
+  }
